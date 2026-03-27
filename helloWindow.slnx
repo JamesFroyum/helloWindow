@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="awesomeface.png" />
+    <File Path="basic.fs" />
+    <File Path="basic.vs" />
+    <File Path="camera.h" />
+    <File Path="georgia.jpg" />
+    <File Path="shader.h" />
+    <File Path="transform.vs" />
+  </Folder>
+  <Project Path="helloWindow.vcxproj" Id="1b3cb9cd-4e51-41f2-ba0f-ff08dd589bab" />
+</Solution>
